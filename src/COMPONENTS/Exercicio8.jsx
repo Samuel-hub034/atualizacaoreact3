@@ -13,7 +13,7 @@ function Exercicio8() {
     >
       <h2>Calculadora de total d Produtos</h2>
       <button onClick={calcularTotal}>Calcular Total</button>
-      <input type="number" id="total-produtos" placeholder="Digite o valor" />
+     
       <div
         id="total-produtos"
         style={{ marginTop: "10px", fontWeight: "2px" }}
@@ -23,3 +23,4 @@ function Exercicio8() {
 }
 
 export default Exercicio8;
+
